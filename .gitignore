@@ -1,6 +1,7 @@
 .idea
-__pycache__/
+__pycache__
 db.sqlite3
 .DS_Store
 *.zip
-geekshop-server(1)
+geekshop-server(1)/
+
